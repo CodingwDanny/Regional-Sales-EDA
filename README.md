@@ -28,15 +28,16 @@ to uncover trends, evaluate profitability, and provide actionable insights.
 
 ```
 EDA-project/
-├── Data/               # Dataset (Excel file and supporting data)
-├── Docs/               # Assignment and documentation
-├── Notebooks/          # Jupyter notebooks (main analysis)
-│   └── EDA.ipynb
-├── Outputs/            # Graphs, tables, and exported results
-├── Scripts/            # Optional Python scripts
-├── README.md           # Project description
-├── requirements.txt    # Required libraries
-└── .gitignore          # Files to ignore in Git
+├── Data/ # Dataset (Excel file and supporting data)
+├── Docs/ # Assignment and documentation
+│ └── Regional Sales Analysis - Exploratory Data Analysis.pdf
+├── Notebooks/ # Jupyter notebooks (main analysis)
+│ └── EDA.ipynb
+├── Outputs/ # Graphs, tables, and exported results
+├── Scripts/ # Optional Python scripts
+├── README.md # Project description
+├── requirements.txt # Required libraries
+└── .gitignore # Files to ignore in Git
 ```
 
 
