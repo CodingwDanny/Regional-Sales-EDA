@@ -85,4 +85,5 @@ pip install -r requirements.txt
 Author
 
 Developed by Danny Chacón
+
 Bootcamp: Codecademy – Data Analytics with AI 
