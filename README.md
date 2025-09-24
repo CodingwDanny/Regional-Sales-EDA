@@ -4,6 +4,14 @@ This project was developed as part of the Codecademy Data Analytics with AI Boot
 The goal is to perform an **Exploratory Data Analysis (EDA)** on the Regional Sales Dataset  
 to uncover trends, evaluate profitability, and provide actionable insights.
 
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Project%20Status-Completed-brightgreen.svg)
+
+![GitHub stars](https://img.shields.io/github/stars/CodingwDanny/Regional-Sales-EDA?style=social)
+
+
 ---
 
 ## 📊 Project Workflow
