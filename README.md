@@ -16,17 +16,21 @@ to uncover trends, evaluate profitability, and provide actionable insights.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+
+```
 EDA-project/
-│── Data/ # Dataset (Excel file and supporting data)
-│── Docs/ # Assignment and documentation
-│── Notebooks/ # Jupyter notebooks (main analysis)
-│ └── EDA.ipynb
-│── Outputs/ # Graphs, tables, and exported results
-│── Scripts/ # Optional Python scripts
-│── README.md # Project description
-│── requirements.txt # Required libraries
-│── .gitignore # Files to ignore in Git
+├── Data/               # Dataset (Excel file and supporting data)
+├── Docs/               # Assignment and documentation
+├── Notebooks/          # Jupyter notebooks (main analysis)
+│   └── EDA.ipynb
+├── Outputs/            # Graphs, tables, and exported results
+├── Scripts/            # Optional Python scripts
+├── README.md           # Project description
+├── requirements.txt    # Required libraries
+└── .gitignore          # Files to ignore in Git
+```
+
 
 ---
 
