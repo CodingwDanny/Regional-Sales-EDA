@@ -56,8 +56,6 @@ The analysis was conducted in **Jupyter Notebook** and covers:
 
 ## 📊 Visualizations
 
-## 📊 Visualizations
-
 ### Budgets vs Actual Sales
 ![Budgets vs Actual Sales](./Outputs/Visuals/Budget_vs_actual_sales.png)
 
