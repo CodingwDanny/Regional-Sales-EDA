@@ -56,8 +56,10 @@ The analysis was conducted in **Jupyter Notebook** and covers:
 
 ## 📊 Visualizations
 
-### Sales by Product
-![Sales by Product](./Outputs/Visuals/Sales_by_product.png)
+## 📊 Visualizations
+
+### Budgets vs Actual Sales
+![Budgets vs Actual Sales](./Outputs/Visuals/Budget_vs_actual_sales.png)
 
 ### Sales by Channel
 ![Sales by Channel](./Outputs/Visuals/Sales_by_channel.png)
