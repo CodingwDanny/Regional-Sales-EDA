@@ -54,6 +54,36 @@ The analysis was conducted in **Jupyter Notebook** and covers:
 
 ---
 
+## 📊 Key Visuals
+
+Below are some of the main visuals from the **Regional Sales Analysis (2014–2018)** project.
+
+<p align="center">
+  <img src="Outputs/Visuals/Sales_by_channel.png" alt="Sales by Channel" width="600">
+  <br>
+  <em>Figure 1: Total Sales Distribution by Sales Channel</em>
+</p>
+
+<p align="center">
+  <img src="Outputs/Visuals/Top_product_by_sales.png" alt="Top Products by Sales" width="600">
+  <br>
+  <em>Figure 2: Top Products Ranked by Total Sales</em>
+</p>
+
+<p align="center">
+  <img src="Outputs/Visuals/Top_states_by_sales.png" alt="Top States by Sales" width="600">
+  <br>
+  <em>Figure 3: Highest Performing States in Sales Volume</em>
+</p>
+
+<p align="center">
+  <img src="Outputs/Visuals/Budged_vs_actual_sales.png" alt="Budget vs Actual Sales" width="600">
+  <br>
+  <em>Figure 4: Comparison of 2017 Budgeted vs. Actual Sales</em>
+</p>
+
+---
+
 - Sales peaked around 2014–2016 (~298M USD annually) but declined in 2018 (~48M USD).  
 - The top 3 products account for a significant share of total revenue.  
 - Strong dependency on a single channel poses strategic risks.  
@@ -63,6 +93,7 @@ The analysis was conducted in **Jupyter Notebook** and covers:
 ---
 
 ## 💡 Recommendations
+
 - **Diversify channels** to reduce dependency risk.  
 - **Invest in high-performing products** and reassess low contributors.  
 - **Expand in top regions** and explore opportunities in underperforming areas.  
