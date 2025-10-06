@@ -14,7 +14,7 @@ to uncover trends, evaluate profitability, and provide actionable insights.
 
 ---
 
-## 📊 Project Workflow
+## Project Workflow
 1. **Data Collection** – Import Regional Sales Dataset (2014–2018).  
 2. **Data Understanding** – Explore dataset structure (Sales Orders, Customers, Products, Regions, Budgets).  
 3. **Data Cleaning & Preparation** – Handle duplicates, validate datatypes, prepare for analysis.  
@@ -43,7 +43,7 @@ EDA-project/
 
 ---
 
-## 📈 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 The analysis was conducted in **Jupyter Notebook** and covers:  
 - **Sales by Year** – Stable 2014–2016, sharp drop in 2018.  
@@ -54,7 +54,7 @@ The analysis was conducted in **Jupyter Notebook** and covers:
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 ### Budgets vs Actual Sales
 ![Budgets vs Actual Sales](./Outputs/Visuals/Budget_vs_actual_sales.png)
