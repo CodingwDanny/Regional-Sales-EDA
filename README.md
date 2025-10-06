@@ -54,33 +54,20 @@ The analysis was conducted in **Jupyter Notebook** and covers:
 
 ---
 
-## 📊 Key Visuals
+## 📊 Visualizations
 
-Below are some of the main visuals from the **Regional Sales Analysis (2014–2018)** project.
+### Sales by Product
+![Sales by Product](./Outputs/Visuals/Sales_by_product.png)
 
-<p align="center">
-  <img src="Outputs/Visuals/Sales_by_channel.png" alt="Sales by Channel" width="600">
-  <br>
-  <em>Figure 1: Total Sales Distribution by Sales Channel</em>
-</p>
+### Sales by Channel
+![Sales by Channel](./Outputs/Visuals/Sales_by_channel.png)
 
-<p align="center">
-  <img src="Outputs/Visuals/Top_product_by_sales.png" alt="Top Products by Sales" width="600">
-  <br>
-  <em>Figure 2: Top Products Ranked by Total Sales</em>
-</p>
+### Top States by Sales
+![Top States by Sales](./Outputs/Visuals/Top_states_by_sales.png)
 
-<p align="center">
-  <img src="Outputs/Visuals/Top_states_by_sales.png" alt="Top States by Sales" width="600">
-  <br>
-  <em>Figure 3: Highest Performing States in Sales Volume</em>
-</p>
+### Top Product by Sales
+![Top Product by Sales](./Outputs/Visuals/Top_product_by_sales.png)
 
-<p align="center">
-  <img src="Outputs/Visuals/Budged_vs_actual_sales.png" alt="Budget vs Actual Sales" width="600">
-  <br>
-  <em>Figure 4: Comparison of 2017 Budgeted vs. Actual Sales</em>
-</p>
 
 ---
 
